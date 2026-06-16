@@ -18,7 +18,7 @@ class RachitSethi:
         self.role        = "AI & Data Science Intern @ Deloitte"
         self.education    = "B.Tech CSE (AIML), UPES Dehradun '27"
         self.from_city    = "Rohtak, Haryana 🇮🇳"
-        self.interests    = ["Deep Learning", "Computer Vision", "Vedic Astrology 🔭"]
+        self.interests    = ["Deep Learning", "Computer Vision"]
         self.currently_building = "AGTSF-Net — Real-time Traffic Anomaly Detection"
 
     def say_hi(self):
@@ -97,7 +97,8 @@ CNN-based classifier predicting movie genres from poster images, evaluated via c
 
 Sports almost on rotation, music, sketching, and the occasional dance floor moment. Stack overflows by day, playlists and pencil sketches by night.
 
-> *"Build loud, doubt quiet — let the noise outside be noise, my own peace stays mine."*
+> *"Baki Duniya Rus Je Ni Sadda Rab Raaji Reh"
+"Build loud, doubt quiet — let the noise outside be noise, my own peace stays mine."*
 
 ---
 
