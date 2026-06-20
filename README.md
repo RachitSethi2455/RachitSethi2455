@@ -21,7 +21,7 @@
 - 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
 - 🔭 Building **AGTSF-Net**, a real-time traffic anomaly detection system
 - 🌱 Sharpening DSA & system design fundamentals alongside my internship
-- ⚡ Outside of code: sports, music, sketching, dance — and a soft spot for Vedic astrology
+- ⚡ Outside of code: sports, music, sketching, and dance
 
 ---
 
@@ -122,19 +122,13 @@ CNN-based classifier predicting movie genres from poster images, evaluated via c
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSethi2455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RachitSethi2455&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="90%" />
-</p>
-
 ---
 
-### 🎮 Tap to Play — Snake Eats Contributions
+### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/RachitSethi2455/RachitSethi2455/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="90%"/>
 </p>
-
-> *(Auto-generates once the snake workflow runs on your repo — setup note below ⬇️)*
 
 ---
 
