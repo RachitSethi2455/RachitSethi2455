@@ -17,9 +17,9 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE (AIML)** student at **UPES Dehradun** (2023–2027)
-- 💼 Currently an **AI & Data Science Intern at Deloitte**, Gurgaon
+- 💼 EX **AI & Data Science Intern at Deloitte**, Gurgaon
 - 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
-- 🔭 Building **AGTSF-Net**, a real-time traffic anomaly detection system
+- 🔭 Building **Cost-Aware-Model-Router**, a real-time traffic anomaly detection system
 - 🌱 Sharpening DSA & system design fundamentals alongside my internship
 - ⚡ Outside of code: sports, music, sketching, and dance
 
@@ -29,7 +29,7 @@
 
 | 🏗️ Building | 📚 Learning | 🧪 Practicing | 🎯 Goals |
 |---|---|---|---|
-| AGTSF-Net (Traffic Anomaly Detection) | System Design | Data Structures & Algorithms | Crack top AI/ML roles |
+| Cost-Aware-Model-Router | System Design | Data Structures & Algorithms | Crack top AI/ML roles |
 | Full-stack ML pipelines | Cloud Deployment | Competitive Coding | Contribute to Open Source |
 | FastAPI + Spring Boot integration | Advanced Computer Vision | Model Optimization | Publish AGTSF-Net research |
 
