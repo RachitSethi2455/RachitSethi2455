@@ -3,7 +3,7 @@
 <h3 align="center">AI & Data Science Intern @ Deloitte | CSE (AIML) Final Year @ UPES</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-time+AI+systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Currently%3A+AGTSF-Net+%7C+Traffic+Anomaly+Detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-time+AI+systems;LLM+routing%3A+36-76%25+lower+inference+cost;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Currently%3A+AGTSF-Net+%7C+Traffic+Anomaly+Detection" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🎓 Final-year **B.Tech CSE (AIML)** student at **UPES Dehradun** (2023–2027)
 - 💼 EX **AI & Data Science Intern at Deloitte**, Gurgaon
 - 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
-- 🔭 Building **[Cost-Aware-Model-Router](https://github.com/RachitSethi2455/cost-aware-model-router)**, an adaptive LLM router that sends each query to a cheap or expensive model to cut inference cost
+- 🔭 Built **[Cost-Aware-Model-Router](https://github.com/RachitSethi2455/cost-aware-model-router)** ([live demo](https://cost-aware-model-router.vercel.app)), an LLM router that sends each query to a cheap or expensive model: 36–76% lower cost, 93–96% of the quality
 - 🌱 Sharpening DSA & system design fundamentals alongside my internship
 - ⚡ Outside of code: sports, music, sketching, and dance
 
@@ -68,6 +68,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20%2F%20TFLite-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
@@ -75,6 +78,15 @@
 ### 🧩 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+**🧭 [Cost-Aware LLM Router](https://github.com/RachitSethi2455/cost-aware-model-router) · [Live demo](https://cost-aware-model-router.vercel.app)**
+Sends each query to a cheap or expensive LLM. On a live Gemini benchmark: **36–76% lower cost** with **93–96% of the quality**, median latency 12 s → 5–8 s. A sandboxed code tool makes the small model compute exact answers instead of guessing (**58% → 100%** on fresh questions), and an OpenAI-compatible API makes it a drop-in for existing apps.
+`Python` `FastAPI` `scikit-learn` `Gemini & Claude APIs` `Docker` `Vercel`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
