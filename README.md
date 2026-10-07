@@ -1,15 +1,9 @@
 <h1 align="center">Hi there, I'm Rachit Sethi 👋</h1>
 
-<h3 align="center">AI & Data Intern @ Deloitte | CSE (AIML) Final Year @ UPES</h3>
+<h3 align="center">CSE (AIML) Final Year @ UPES | Ex-AI & Data Intern @ Deloitte</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-time+AI+systems;LLM+routing%3A+36-76%25+lower+inference+cost;Deep+Learning+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RachitSethi2455&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/RachitSethi2455?label=Followers&style=for-the-badge&color=00f7ff" alt="followers" />
-<img src="https://img.shields.io/github/stars/RachitSethi2455?label=Stars&style=for-the-badge&color=00f7ff" alt="stars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Shipping+ML+from+notebook+to+production;LLM+routing%3A+36-76%25+lower+inference+cost;Deep+Learning+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +14,7 @@
 - 💼 Ex-**AI & Data Intern at Deloitte**, Gurgaon
 - 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
 - 🔭 Built **[Cost-Aware-Model-Router](https://github.com/RachitSethi2455/cost-aware-model-router)** ([live demo](https://cost-aware-model-router.vercel.app)), an LLM router that sends each query to a cheap or expensive model: 36–76% lower cost, 93–96% of the quality
-- 🌱 Sharpening DSA & system design fundamentals alongside my internship
+- 🌱 Sharpening DSA & system design fundamentals
 - ⚡ Outside of code: sports, music, sketching, and dance
 
 ---
@@ -31,7 +25,7 @@
 |---|---|---|---|
 | Cost-Aware-Model-Router | System Design | Data Structures & Algorithms | Crack top AI/ML roles |
 | Full-stack ML pipelines | Cloud Deployment | Competitive Coding | Contribute to Open Source |
-| FastAPI + Spring Boot integration | Advanced Computer Vision | Model Optimization |  |
+| Production ML APIs (FastAPI + Docker) | Advanced Computer Vision | Model Optimization | Publish research |
 
 ---
 
@@ -118,12 +112,12 @@ Built for Smart India Hackathon 2024 — classifies cattle & buffalo breeds usin
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RachitSethi2455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RachitSethi2455&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RachitSethi2455&show_icons=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=RachitSethi2455&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSethi2455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSethi2455&hide=jupyter%20notebook&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
 </p>
 
 ---
@@ -141,7 +135,6 @@ Built for Smart India Hackathon 2024 — classifies cattle & buffalo breeds usin
 <p align="center">
 <a href="https://www.linkedin.com/in/rachit-sethi-2455d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rachitsethi2455@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/RachitSethi2455"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>"Build loud, doubt quiet."</i></p>
