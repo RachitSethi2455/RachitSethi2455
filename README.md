@@ -3,7 +3,7 @@
 <h3 align="center">AI & Data Intern @ Deloitte | CSE (AIML) Final Year @ UPES</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-time+AI+systems;LLM+routing%3A+36-76%25+lower+inference+cost;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Currently%3A+AGTSF-Net+%7C+Traffic+Anomaly+Detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-time+AI+systems;LLM+routing%3A+36-76%25+lower+inference+cost;Deep+Learning+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 |---|---|---|---|
 | Cost-Aware-Model-Router | System Design | Data Structures & Algorithms | Crack top AI/ML roles |
 | Full-stack ML pipelines | Cloud Deployment | Competitive Coding | Contribute to Open Source |
-| FastAPI + Spring Boot integration | Advanced Computer Vision | Model Optimization | Publish AGTSF-Net research |
+| FastAPI + Spring Boot integration | Advanced Computer Vision | Model Optimization |  |
 
 ---
 
@@ -41,7 +41,6 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -90,22 +89,6 @@ Sends each query to a cheap or expensive LLM. On a live Gemini benchmark: **36�
 <tr>
 <td width="50%" valign="top">
 
-**🚦 AGTSF-Net (AnomalyWatch)**
-Real-time traffic anomaly detection — dual-stream BiLSTM + CrossStreamAttention, served via FastAPI, backed by a Spring Boot microservice, live JS dashboard.
-`PyTorch` `FastAPI` `Spring Boot`
-
-</td>
-<td width="50%" valign="top">
-
-**🐄 AI Breed Recognition System**
-Built for Smart India Hackathon 2024 — classifies cattle & buffalo breeds using ConvNeXt/DeiT transfer learning, deployed on Android via TFLite.
-`TensorFlow` `Flutter` `TFLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **📊 [Employee Attrition Prediction](https://github.com/RachitSethi2455/employee-attrition-prediction)**
 Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tuned gradient boosting reaches **0.85 ROC-AUC**, with permutation-importance analysis of what drives attrition.
 `Scikit-learn` `Pandas`
@@ -116,6 +99,15 @@ Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tu
 **🎬 [Movie Genre from Posters](https://github.com/RachitSethi2455/movie-genre-poster-classification)**
 Transfer learning on movie posters: ResNet18/50, DenseNet121 and VGG16 compared as frozen feature extractors, then fine-tuned, ~2.5× the random baseline on 4 genres.
 `PyTorch` `Transfer Learning` `CNN`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🐄 AI Breed Recognition System**
+Built for Smart India Hackathon 2024 — classifies cattle & buffalo breeds using ConvNeXt/DeiT transfer learning, deployed on Android via TFLite.
+`TensorFlow` `Flutter` `TFLite`
 
 </td>
 </tr>
