@@ -147,7 +147,7 @@ Transfer learning on movie posters: ResNet18/50, DenseNet121 and VGG16 compared 
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rachit-sethi-5a5b5732a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rachit-sethi-2455d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rachitsethi2455@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/RachitSethi2455"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
