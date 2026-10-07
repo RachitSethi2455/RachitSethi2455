@@ -84,15 +84,15 @@ Sends each query to a cheap or expensive LLM. On a live Gemini benchmark: **36�
 <td width="50%" valign="top">
 
 **📊 [Employee Attrition Prediction](https://github.com/RachitSethi2455/employee-attrition-prediction)**
-Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tuned gradient boosting reaches **0.85 ROC-AUC**, with permutation-importance analysis of what drives attrition.
-`Scikit-learn` `Pandas`
+Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tuned gradient boosting reaches **0.85 ROC-AUC**. Includes SHAP explanations, a fairness audit across demographic groups, a Gradio demo and CI-tested code.
+`Scikit-learn` `SHAP` `Gradio`
 
 </td>
 <td width="50%" valign="top">
 
 **🎬 [Movie Genre from Posters](https://github.com/RachitSethi2455/movie-genre-poster-classification)**
-Transfer learning on movie posters: ResNet18/50, DenseNet121 and VGG16 compared as frozen feature extractors, then fine-tuned, ~2.5× the random baseline on 4 genres.
-`PyTorch` `Transfer Learning` `CNN`
+Transfer learning on movie posters: 4 ImageNet CNNs compared over 5 repeated splits. ResNet50 is best at **69.6% ± 1.2** on 4 genres (2.8× random), and a Gradio demo classifies any uploaded poster.
+`PyTorch` `Transfer Learning` `Gradio`
 
 </td>
 </tr>
