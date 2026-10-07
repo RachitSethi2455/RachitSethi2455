@@ -19,7 +19,7 @@
 - 🎓 Final-year **B.Tech CSE (AIML)** student at **UPES Dehradun** (2023–2027)
 - 💼 EX **AI & Data Science Intern at Deloitte**, Gurgaon
 - 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
-- 🔭 Building **Cost-Aware-Model-Router**, a real-time traffic anomaly detection system
+- 🔭 Building **[Cost-Aware-Model-Router](https://github.com/RachitSethi2455/cost-aware-model-router)**, an adaptive LLM router that sends each query to a cheap or expensive model to cut inference cost
 - 🌱 Sharpening DSA & system design fundamentals alongside my internship
 - ⚡ Outside of code: sports, music, sketching, and dance
 
@@ -94,16 +94,16 @@ Built for Smart India Hackathon 2024 — classifies cattle & buffalo breeds usin
 <tr>
 <td width="50%" valign="top">
 
-**📊 Employee Attrition Prediction**
-End-to-end ML pipeline forecasting employee attrition with full preprocessing, training, and evaluation.
+**📊 [Employee Attrition Prediction](https://github.com/RachitSethi2455/employee-attrition-prediction)**
+Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tuned gradient boosting reaches **0.85 ROC-AUC**, with permutation-importance analysis of what drives attrition.
 `Scikit-learn` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-**🎬 Movie Genre Prediction**
-CNN-based classifier predicting movie genres from poster images, evaluated via confusion matrix & accuracy metrics.
-`TensorFlow/Keras` `CNN`
+**🎬 [Movie Genre from Posters](https://github.com/RachitSethi2455/movie-genre-poster-classification)**
+Transfer learning on movie posters: ResNet18/50, DenseNet121 and VGG16 compared as frozen feature extractors, then fine-tuned, ~2.5× the random baseline on 4 genres.
+`PyTorch` `Transfer Learning` `CNN`
 
 </td>
 </tr>
