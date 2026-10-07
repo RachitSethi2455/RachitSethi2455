@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rachit Sethi 👋</h1>
 
-<h3 align="center">AI & Data Science Intern @ Deloitte | CSE (AIML) Final Year @ UPES</h3>
+<h3 align="center">AI & Data Intern @ Deloitte | CSE (AIML) Final Year @ UPES</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-time+AI+systems;LLM+routing%3A+36-76%25+lower+inference+cost;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Currently%3A+AGTSF-Net+%7C+Traffic+Anomaly+Detection" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE (AIML)** student at **UPES Dehradun** (2023–2027)
-- 💼 EX **AI & Data Science Intern at Deloitte**, Gurgaon
+- 💼 Ex-**AI & Data Intern at Deloitte**, Gurgaon
 - 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
 - 🔭 Built **[Cost-Aware-Model-Router](https://github.com/RachitSethi2455/cost-aware-model-router)** ([live demo](https://cost-aware-model-router.vercel.app)), an LLM router that sends each query to a cheap or expensive model: 36–76% lower cost, 93–96% of the quality
 - 🌱 Sharpening DSA & system design fundamentals alongside my internship
