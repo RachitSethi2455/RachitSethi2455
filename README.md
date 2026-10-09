@@ -96,15 +96,6 @@ Transfer learning on movie posters: 4 ImageNet CNNs compared over 5 repeated spl
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-**🐄 AI Breed Recognition System**
-Built for Smart India Hackathon 2024 — classifies cattle & buffalo breeds using ConvNeXt/DeiT transfer learning, deployed on Android via TFLite.
-`TensorFlow` `Flutter` `TFLite`
-
-</td>
-</tr>
 </table>
 
 ---
