@@ -12,9 +12,8 @@
 
 - 🎓 Final-year **B.Tech CSE (AIML)** student at **UPES Dehradun** (2023–2027)
 - 💼 Ex-**AI & Data Intern at Deloitte**, Gurgaon
-- 🧠 Deep into deep learning — CNNs, transfer learning, BiLSTMs with attention mechanisms
-- 🔭 Built **[Cost-Aware-Model-Router](https://github.com/RachitSethi2455/cost-aware-model-router)** ([live demo](https://cost-aware-model-router.vercel.app)), an LLM router that sends each query to a cheap or expensive model: 36–76% lower cost, 93–96% of the quality
-- 🌱 Sharpening DSA & system design fundamentals
+- 🧠 Focused on ML that holds up: calibrated, explainable (SHAP, Grad-CAM) and audited for fairness
+- 🔭 Now building **ChronoRAG**: recency-aware hybrid retrieval over versioned RBI Master Circulars (final-year major project, in progress)
 - ⚡ Outside of code: sports, music, sketching, and dance
 
 ---
@@ -35,23 +34,25 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 **AI / ML Frameworks**
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-FF0D57?style=for-the-badge"/>
 </p>
 
-**Backend & APIs**
+**LLMs, APIs & Apps**
 <p>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
 </p>
 
 **Databases & Tools**
@@ -60,7 +61,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20%2F%20TFLite-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -84,15 +84,24 @@ Sends each query to a cheap or expensive LLM. On a live Gemini benchmark: **36�
 <td width="50%" valign="top">
 
 **📊 [Employee Attrition Prediction](https://github.com/RachitSethi2455/employee-attrition-prediction)**
-Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tuned gradient boosting reaches **0.85 ROC-AUC**. Includes SHAP explanations, a fairness audit across demographic groups, a Gradio demo and CI-tested code.
-`Scikit-learn` `SHAP` `Gradio`
+Leak-free scikit-learn pipeline benchmarking 6 classifiers on 74K HR records; tuned gradient boosting reaches **0.85 ROC-AUC** and is well calibrated (ECE 0.02). A fairness audit found single employees wrongly flagged **43%** of the time vs 16% for married ones; group-specific thresholds cut that gap from **27 to 4 points** for 1.5 points of accuracy. SHAP explanations, a Gradio demo and CI-tested code.
+`Scikit-learn` `SHAP` `Fairness` `Gradio`
 
 </td>
 <td width="50%" valign="top">
 
 **🎬 [Movie Genre from Posters](https://github.com/RachitSethi2455/movie-genre-poster-classification)**
-Transfer learning on movie posters: 4 ImageNet CNNs compared over 5 repeated splits. ResNet50 is best at **69.6% ± 1.2** on 4 genres (2.8× random), and a Gradio demo classifies any uploaded poster.
-`PyTorch` `Transfer Learning` `Gradio`
+Transfer learning on movie posters: 4 ImageNet CNNs compared over 5 repeated splits. ResNet50 is best at **69.6% ± 1.2** on 4 genres (2.8× random). Grad-CAM shows where it looks, it is **91% accurate** when at least 80% confident, and half of its errors name a real second genre on IMDb. A Gradio demo classifies any uploaded poster.
+`PyTorch` `Grad-CAM` `Gradio`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🛰️ [Aerial Image Segmentation](https://github.com/RachitSethi2455/Deep-Learning/blob/main/11-Image-Segmentation.ipynb)**
+U-Net labelling ISPRS Vaihingen aerial images into 6 land-cover classes: **81.5% pixel accuracy** (majority baseline 27.7%) and **mIoU 0.64** on 17 areas it never saw. Part of a [14-notebook deep learning lab collection](https://github.com/RachitSethi2455/Deep-Learning) (MLPs, CNNs, R-CNN, autoencoders).
+`PyTorch` `U-Net` `Semantic Segmentation`
 
 </td>
 </tr>
